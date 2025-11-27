@@ -22,7 +22,7 @@ Write code that performs the following:
 - Add the final number of ricecorn to the `Readme.md` file.
 - Add a short comment in the `Readme.md` stating whether the count is complete or if some ricecorn were missed.
 
-**Note:** You may use any programming language or library that you prefer.
+**Note:** You may use any programming language or library that you prefer (Python preferred).
 
 
 ### Step 3: Documentation
