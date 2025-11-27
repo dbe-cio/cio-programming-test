@@ -26,7 +26,7 @@ Write code that performs the following:
 
 
 ### Step 3: Documentation
-Add in the `Readme.md` that explains how to run your code. Please include:
+Add a description in the `Readme.md` that explains how to run your code. Please include:
 - All steps needed to set up and run your solution.
 - Instructions to create and activate any Conda environment required.
 - Instructions for installing all dependencies.
