@@ -4,6 +4,7 @@ The goal of this exercise is to understand your approach to solving a task. A pe
 
 ## Task
 Your task is to count the number of ricecorn in the image `figs/rice.png` and to colour each ricecorn with a unique colour. Then save the colourised result and document how to run your code.
+
 ![rice.png](figs/rice.png)
 
 
